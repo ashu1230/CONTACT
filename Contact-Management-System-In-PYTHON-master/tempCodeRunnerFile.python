@@ -10,7 +10,6 @@ frame3 = Frame(win)
 frame3.pack()
 label1 = Label(frame3, text="You awaken in a room, with no memories of yourself or your past. ")
 label2 = Label(frame3, text="First, how about you give yourself a name:")
-
 label1.config(font=("Courier", 11)) 
 label2.config(font=("Courier", 11))
 
