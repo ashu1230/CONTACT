@@ -1,7 +1,6 @@
 from tkinter import * 
 win = Tk() 
 win.geometry("787x600")
-
 playername = StringVar()
 
 def SubmitName():
