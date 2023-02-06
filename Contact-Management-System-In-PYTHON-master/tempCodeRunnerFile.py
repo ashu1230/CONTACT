@@ -3,6 +3,7 @@ win = Tk()
 win.geometry("787x600")
 playername = StringVar()
 def SubmitName():
+    
     playername.get
     #messagebox.showinfo("Success", playername)
     print(playername)
