@@ -7,6 +7,7 @@ def SubmitName():
     playername.get
     #messagebox.showinfo("Success", playername)
     print(playername)
+    
 frame3 = Frame(win) 
 frame3.pack()
 label1 = Label(frame3, text="You awaken in a room, with no memories of yourself or your past. ")
